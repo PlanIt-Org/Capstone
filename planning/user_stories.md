@@ -51,7 +51,7 @@ Planning a hangout, trip or other event can be complex, often requiring multiple
 
 #### Persona 1: "The Busy Professional"
 
-- **Name:** Joseph Joestar
+- **Name:** Ben Cujo
 - **Location:** London, UK
 - **Age:** 35
 - **About:** Ben is a management consultant with a hectic travel schedule. His friends often invite him to weekend getaways and dinners.

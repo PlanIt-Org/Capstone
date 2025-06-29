@@ -21,9 +21,10 @@ Our all-in-one planner streamlines this by integrating these tools into a single
 
 ## Related Work
 
-- Apple Invites
-- Partiful
+- [Apple Invites](https://www.icloud.com/invites)
+- [Partiful](https://partiful.com/)
 - [MindTrip](https://mindtrip.ai/chat/1633291)
+
 ## Open Questions
 
 - How to implement LLMs in the project?

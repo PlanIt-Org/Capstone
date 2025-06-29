@@ -23,7 +23,7 @@ Our all-in-one planner streamlines this by integrating these tools into a single
 
 - Apple Invites
 - Partiful
-
+- [MindTrip](https://mindtrip.ai/chat/1633291)
 ## Open Questions
 
 - How to implement LLMs in the project?

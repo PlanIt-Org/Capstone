@@ -4,7 +4,9 @@
 
 ## Problem Statement
 
-Planning a hangout, trip or other event can be complex, often requiring multiple apps for navigation, transport, weather, and location info.
+Planning a hangout, trip or other event can be complex, often requiring multiple apps for navigation, transport, weather, and location info. Instagram polls go unanswered, and its hard to put the cognitive effort forward to make a plan happen. Even then, people have their own preferences based on mood, dietary restrictions and more.
+
+Our all-in-one planner, PlanIt, streamlines this by solving these problems and putting different tools together into a single, user-friendly platform. Users can select locations, filter preferences based on known constraints, and invite friends and colleagues within a few button presses.
 
 ## User Roles
 

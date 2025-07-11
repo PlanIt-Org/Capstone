@@ -4,7 +4,7 @@ SITE Course Year: **2025**
 
 Cohort: **FTL**
 
-Team Member Names:\*\*\*\*
+Team Member Names: Moosay Hailewold, Josh Pierre, Thomas Sibilly
 
 Mentors Names: **Insert Professional Mentor Names**
 

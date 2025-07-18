@@ -1,6 +1,6 @@
 # Project Proposal
 
-Pod Members: **Moosay Hailewold, Josh Piere, Thomas Sibilly**
+Pod Members: **Moosay Hailewold, Josh Cesar Pierre, Thomas Sibilly**
 
 ## Problem Statement
 

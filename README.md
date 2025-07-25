@@ -1,17 +1,15 @@
-# SITE Capstone Project
+# FTL Capstone Project
 
-SITE Course Year: **2025**
+FTL Course Year: **2025**
 
-Cohort: **FTL**
-
-Team Member Names: Moosay Hailewold, Josh Pierre, Thomas Sibilly
+Team Member Names: **Moosay Hailewold, Josh Cesar Pierre, Thomas Sibilly**
 
 Mentors Names: **Insert Professional Mentor Names**
 
 Project Code Repository Links
 
-- [Frontend Repo Link]()
-- [Backend Repo Link]()
+- [PlanIt Client](https://github.com/PlanIt-Org/planit-client)
+- [PlanIt Client](https://github.com/PlanIt-Org/planit-server)
 
 ## Project Overview
 

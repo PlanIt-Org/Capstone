@@ -1,25 +1,46 @@
-# Reflection #2
+# Reflection 2
 
-Pod Members: **Add Pod Members Names**
+**Pod Members:** Moosay Hailewold, Josh Cesar Pierre, Thomas Sibilly
+
+---
 
 ## Reflection Questions
 
-* Name at least one successful thing this week.
+### What was at least one successful thing this week?
 
- Add response here
+We achieved several key milestones this week:
+* Implemented full profile page functionality.
+* Deployed an updated landing page.
+* Enabled users to generate and share a unique trip link.
+* Optimized the frontend by creating custom hooks.
+* Integrated basic LLM-powered suggestions.
+* Migrated user authentication from Clerk to Supabase.
 
-* What were some challenges you and/or your group faced this week?
+---
 
- Add response here
+### What were some challenges you and/or your group faced this week?
 
-* Did you finish all of your tasks in your sprint plan for this week? If you did not finish all of the planned tasks, how would you prioritize the remaining tasks on your list?  (i.e over planned, did not know how to implement certain features, miscommunication from the team, had to pivot from original plans, etc.)
+* Debugging issues that arose from implementing more complex features.
+* Managing state became difficult; `useState` was insufficient for some features, requiring us to explore a more robust solution.
+* Identifying and refactoring large, inefficient functions in both the frontend and backend.
 
- Add response here
+---
 
-* Did the resources provided to you help prepare you in planning and executing your capstone project sprint this week? Be specific, what resources did you find particularly helpful or which tasks did you need more support on?
+### Did you finish all of your tasks in your sprint plan for this week?
 
- Add response here
+No, we did not complete everything due to an ambitious sprint plan. However, we successfully completed our Minimum Viable Product (MVP). We have since decided to narrow the scope for our stretch features for next week to ensure they are achievable.
 
-* Which features and user stories would you consider “at risk”? How will you change your plan if those items remain “at risk”?
+---
 
- Add response here
+### Did the provided resources help you plan and execute your sprint?
+
+Yes, external documentation was critical this week. The resources we found most helpful were the official documentation for React, React Router, Supabase, and the OpenRouter API.
+
+---
+
+### Which features and user stories would you consider “at risk”?
+
+The following features are now considered stretch goals and are at risk of not being completed:
+* Advanced AI-powered recommendations
+* Calendar export functionality
+* Displaying real-time weather conditions

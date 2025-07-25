@@ -9,7 +9,7 @@ Mentors Names: **Insert Professional Mentor Names**
 Project Code Repository Links
 
 - [PlanIt Client](https://github.com/PlanIt-Org/planit-client)
-- [PlanIt Client](https://github.com/PlanIt-Org/planit-server)
+- [PlanIt Server](https://github.com/PlanIt-Org/planit-server)
 
 ## Project Overview
 

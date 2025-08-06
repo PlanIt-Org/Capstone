@@ -23,7 +23,7 @@ Mentors Names: **Insert Professional Mentor Names**
 
 ## Project Overview
 
-PlanIt is an all-in-one platform designed to simplify planning hangouts, trips, and events. Instead of juggling multiple apps for navigation, transport, weather, and group coordination, PlanIt brings everything together in a single, user-friendly interface. Users can drop pins on a map, generate optimized routes with real-time data, personalize travel options, and invite friends with a shareable link. The platform supports collaborative planning, voting, and real-time updates, making group events seamless and fun.
+PlanIt is an all-in-one platform designed to simplify planning hangouts, trips, and events. Instead of juggling multiple apps for navigation, transport, and group coordination, PlanIt brings everything together in a single, user-friendly interface. Users can choose locations on a map, generate optimized routes with real-time data, personalize travel options, and invite friends with a shareable link.
 
 ---
 
